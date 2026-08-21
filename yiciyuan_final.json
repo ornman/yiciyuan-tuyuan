@@ -232,7 +232,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 需翻墙; 禁",
+  "bookSourceGroup": "需翻墙",
   "bookSourceName": "漫小肆韓漫",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.mxs13.cc",
@@ -278,7 +278,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 发现",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "顶漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.dingmanhua.com",
@@ -324,7 +324,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 成人",
+  "bookSourceGroup": "成人",
   "bookSourceName": "久久漫画网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.mxshm.top",
@@ -416,7 +416,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "爱飒漫画📱",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.isamanhua.com",
@@ -460,7 +460,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "爱优漫📱",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.iyouman.com",
@@ -504,7 +504,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站; 提示",
+  "bookSourceGroup": "图站",
   "bookSourceName": "小鸟壁纸🅿💡",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://wallpaper.apc.360.cn",
@@ -548,7 +548,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站",
+  "bookSourceGroup": "图站",
   "bookSourceName": "堆糖-发现搜索可用₂🅿",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.duitang.com",
@@ -592,7 +592,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站; 发现",
+  "bookSourceGroup": "图站",
   "bookSourceName": "唯一图库🅿❕",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.mmonly.cc/tag/bs1",
@@ -634,7 +634,7 @@
   "weight": 874
  },
  {
-  "bookSourceGroup": "漫画; 成人",
+  "bookSourceGroup": "成人",
   "bookSourceName": "爱看漫画网🔞",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://jjmhw.cc",
@@ -676,7 +676,7 @@
   "weight": 822
  },
  {
-  "bookSourceGroup": "漫画; 稳定; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画123📱💡",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.manhua123.net",
@@ -715,7 +715,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "腾讯漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.ac.qq.com",
@@ -760,7 +760,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "SF漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://mm.sfacg.com",
@@ -850,7 +850,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫; 发现; 提示",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "naver",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.comic.naver.com/index.nhn",
@@ -895,7 +895,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "波乐漫画📱🇰🇷",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.bolemanhua.com",
@@ -936,7 +936,7 @@
   "weight": 702
  },
  {
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "快看漫画📱💰",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://m.kuaikanmanhua.com",
@@ -1012,7 +1012,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站; 发现; 提示",
+  "bookSourceGroup": "图站",
   "bookSourceName": "哔哩相簿🅿❕💡",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://h.bilibili.com",
@@ -1056,7 +1056,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "崩坏3漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://comic.bh3.com",
@@ -1099,7 +1099,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "特漫网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.44te.com",
@@ -1145,7 +1145,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "特漫网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.78te.com",
@@ -1188,7 +1188,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "漫画人",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.manhuaren.com",
@@ -1233,7 +1233,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "咚漫",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.dongmanmanhua.cn",
@@ -1277,7 +1277,7 @@
   "weight": 573
  },
  {
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "爱优漫🅰",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://getconfig-globalapi.yyhao.com:443",
@@ -1315,7 +1315,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "漫漫漫画-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.manmanapp.com",
@@ -1361,7 +1361,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 运营商",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "动漫戏说",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://comic.acgn.cc",
@@ -1402,7 +1402,7 @@
   "weight": 534
  },
  {
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "极速漫画💰",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.1kkk.com",
@@ -1440,7 +1440,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画屋",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.mhua5.com",
@@ -1486,7 +1486,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "动漫啦",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.dongman.la",
@@ -1532,7 +1532,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "动漫屋",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.dm5.com",
@@ -1578,7 +1578,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫; 提示; 运营商",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "韩国漫画网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.roumh.com",
@@ -1623,7 +1623,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "漫漫漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.manmanapp.com",
@@ -1710,7 +1710,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "新漫画-A",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://xapi.xinmanhua.net",
@@ -1756,7 +1756,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 日漫",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫畫狗",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://dogemanga.com",
@@ -1802,7 +1802,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫; 发现",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "猎奇漫画™❕ 🇰🇷",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.lieqiman.com",
@@ -1845,7 +1845,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫本",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.manben.com",
@@ -1891,7 +1891,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "咚漫-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.dongmanmanhua.cn",
@@ -1937,7 +1937,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画皮",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.manhuapi.com",
@@ -1982,7 +1982,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "漫客栈w",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.mkzhan.com",
@@ -2026,7 +2026,7 @@
   "weight": 316
  },
  {
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画台🅰",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://getconfig-globalapi.yyhao.com",
@@ -2064,7 +2064,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画台-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.manhuatai.com",
@@ -2110,7 +2110,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "知音漫客-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.zymk.cn",
@@ -2156,7 +2156,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "看漫画-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.kanman.com",
@@ -2202,7 +2202,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 发现; 晴天",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫画160",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.mh160.cc",
@@ -2248,7 +2248,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 成人",
+  "bookSourceGroup": "成人",
   "bookSourceName": "鸟鸟韩漫",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://nnhm7.xyz",
@@ -2294,7 +2294,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "仙漫网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.gaonaojin.com",
@@ -2340,7 +2340,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "GMANHUA",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.gmanhua.com",
@@ -2383,7 +2383,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "92漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.92mh.com",
@@ -2429,7 +2429,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "漫客栈-A",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://comic.mkzhan.com",
@@ -2474,7 +2474,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; json; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "神漫画-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.taomanhua.com",
@@ -2520,7 +2520,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 发现; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "龙王传说网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://lw.131453.xyz",
@@ -2566,7 +2566,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 韩漫; 提示",
+  "bookSourceGroup": "韩漫",
   "bookSourceName": "肉漫画网",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://m.roumh.com",
@@ -2658,7 +2658,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 英文",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "MangaRead",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.mangaread.org",
@@ -2750,7 +2750,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 发现",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "包子漫画cw",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://cn.webmota.com",
@@ -2796,7 +2796,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站; 发现",
+  "bookSourceGroup": "图站",
   "bookSourceName": "Cosplay啦🅿❕",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://ciyuandao.com/photo",
@@ -2840,7 +2840,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 付费",
+  "bookSourceGroup": "付费",
   "bookSourceName": "快看漫画💰",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.kuaikanmanhua.com",
@@ -2884,7 +2884,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站; 提示",
+  "bookSourceGroup": "图站",
   "bookSourceName": "安卓壁纸🅿💡",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://service.picasso.adesk.com",
@@ -2928,7 +2928,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 图站",
+  "bookSourceGroup": "图站",
   "bookSourceName": "绝对领域🅿",
   "bookSourceType": "漫画",
   "bookSourceUrl": "http://www.jdlingyu.com",
@@ -2972,7 +2972,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 提示",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "G站漫画",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.godamanga.com",
@@ -3018,7 +3018,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 稳定",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "大古漫画-M",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.dgmh123.com",
@@ -3062,7 +3062,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 发现",
+  "bookSourceGroup": "漫画",
   "bookSourceName": "龙王传说网❕",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://www.longwangchuanshuo.com",
@@ -3197,7 +3197,7 @@
  {
   "bookDelayTime": "",
   "bookSingleThread": "否",
-  "bookSourceGroup": "漫画; 备用",
+  "bookSourceGroup": "备用",
   "bookSourceName": "◯ 包子漫画web",
   "bookSourceType": "漫画",
   "bookSourceUrl": "https://cn.baozimhcn.com",
